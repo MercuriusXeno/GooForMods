@@ -1,0 +1,29 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "wyrmroost:cooked_desertwyrm",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"wyrmroost:cooked_desertwyrm\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 1.0,
+      "type": "goo:vital"
+    },
+    {
+      "amount": 20.0,
+      "type": "goo:faunal"
+    }
+  ]
+}

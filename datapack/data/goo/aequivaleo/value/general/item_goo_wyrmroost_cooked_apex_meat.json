@@ -1,0 +1,29 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "wyrmroost:cooked_apex_meat",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"wyrmroost:cooked_apex_meat\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 4.0,
+      "type": "goo:vital"
+    },
+    {
+      "amount": 50.0,
+      "type": "goo:faunal"
+    }
+  ]
+}

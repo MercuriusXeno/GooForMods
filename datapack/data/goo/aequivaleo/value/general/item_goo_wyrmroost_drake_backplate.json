@@ -1,0 +1,29 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "wyrmroost:drake_backplate",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"wyrmroost:drake_backplate\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 100.0,
+      "type": "goo:faunal"
+    },
+    {
+      "amount": 70.0,
+      "type": "goo:earthen"
+    }
+  ]
+}

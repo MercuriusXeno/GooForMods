@@ -1,0 +1,37 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "wyrmroost:purple_geode",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"wyrmroost:purple_geode\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 200.0,
+      "type": "goo:crystal"
+    },
+    {
+      "amount": 20.0,
+      "type": "goo:weird"
+    },
+    {
+      "amount": 1.0,
+      "type": "goo:vital"
+    },
+    {
+      "amount": 120.0,
+      "type": "goo:earthen"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "wyrmroost:red_geode_ore",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"wyrmroost:red_geode_ore\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 1.0,
+      "type": "goo:logic_forbidden"
+    },
+    {
+      "amount": 200.0,
+      "type": "goo:crystal"
+    },
+    {
+      "amount": 15.0,
+      "type": "goo:weird"
+    },
+    {
+      "amount": 5.0,
+      "type": "goo:decay"
+    },
+    {
+      "amount": 5.0,
+      "type": "goo:molten"
+    }
+  ]
+}
