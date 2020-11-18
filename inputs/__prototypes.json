@@ -70,6 +70,10 @@
 			"metal":36,
 			"energetic":720,
 		},
+		"platinum":{
+			"metal":64,
+			"regal":64,
+		},
 		"apatite":{
 			"floral":512,
 			"chromatic":240,
@@ -129,6 +133,11 @@
 		"uranium_ore":{
 			"metal":36,
 			"energetic":720,
+			"logic_forbidden":1
+		},
+		"platinum_ore":{
+			"metal":64,
+			"regal":64,
 			"logic_forbidden":1
 		},
 		"apatite_ore":{
