@@ -102,7 +102,7 @@
 		"nether_crystal":{
 			"crystal":1,
 			"radiant":5,
-		}
+		},
 		
 		// From prototypes
 		"white_sand":"sand",
