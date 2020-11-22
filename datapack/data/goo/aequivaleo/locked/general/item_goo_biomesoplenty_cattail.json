@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "biomesoplenty:cattail",
-        "count": 1.0
+        "count": 1.0,
+        "item": "biomesoplenty:cattail"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"biomesoplenty:cattail\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"biomesoplenty:cattail\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

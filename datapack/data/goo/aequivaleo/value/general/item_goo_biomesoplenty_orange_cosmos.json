@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "biomesoplenty:orange_cosmos",
-        "count": 1.0
+        "count": 1.0,
+        "item": "biomesoplenty:orange_cosmos"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"biomesoplenty:orange_cosmos\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"biomesoplenty:orange_cosmos\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

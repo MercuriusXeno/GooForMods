@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "wyrmroost:purple_geode",
-        "count": 1.0
+        "count": 1.0,
+        "item": "wyrmroost:purple_geode"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"wyrmroost:purple_geode\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"wyrmroost:purple_geode\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

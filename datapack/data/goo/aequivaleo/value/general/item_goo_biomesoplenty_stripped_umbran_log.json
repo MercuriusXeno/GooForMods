@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "biomesoplenty:stripped_umbran_log",
-        "count": 1.0
+        "count": 1.0,
+        "item": "biomesoplenty:stripped_umbran_log"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"biomesoplenty:stripped_umbran_log\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"biomesoplenty:stripped_umbran_log\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

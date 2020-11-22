@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "biomesoplenty:dead_leaves",
-        "count": 1.0
+        "count": 1.0,
+        "item": "biomesoplenty:dead_leaves"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"biomesoplenty:dead_leaves\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"biomesoplenty:dead_leaves\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

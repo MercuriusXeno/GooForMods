@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "xreliquary:eye_of_the_storm",
-        "count": 1.0
+        "count": 1.0,
+        "item": "xreliquary:eye_of_the_storm"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"xreliquary:eye_of_the_storm\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"xreliquary:eye_of_the_storm\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "quark:light_blue_shard",
-        "count": 1.0
+        "count": 1.0,
+        "item": "quark:light_blue_shard"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"quark:light_blue_shard\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"quark:light_blue_shard\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

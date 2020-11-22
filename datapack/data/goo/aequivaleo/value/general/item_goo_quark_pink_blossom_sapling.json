@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "quark:pink_blossom_sapling",
-        "count": 1.0
+        "count": 1.0,
+        "item": "quark:pink_blossom_sapling"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"quark:pink_blossom_sapling\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"quark:pink_blossom_sapling\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

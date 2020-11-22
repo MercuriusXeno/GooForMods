@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "quark:gray_shard",
-        "count": 1.0
+        "count": 1.0,
+        "item": "quark:gray_shard"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"quark:gray_shard\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"quark:gray_shard\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

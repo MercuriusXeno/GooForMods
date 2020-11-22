@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "quark:frog_leg",
-        "count": 1.0
+        "count": 1.0,
+        "item": "quark:frog_leg"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"quark:frog_leg\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"quark:frog_leg\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "mekanism:ingot_lead",
-        "count": 1.0
+        "count": 1.0,
+        "item": "mekanism:ingot_lead"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"mekanism:ingot_lead\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"mekanism:ingot_lead\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

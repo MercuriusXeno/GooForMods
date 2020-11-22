@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "wyrmroost:desert_wyrm",
-        "count": 1.0
+        "count": 1.0,
+        "item": "wyrmroost:desert_wyrm"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"wyrmroost:desert_wyrm\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"wyrmroost:desert_wyrm\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

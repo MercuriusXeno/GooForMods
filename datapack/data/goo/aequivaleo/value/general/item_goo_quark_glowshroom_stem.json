@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "quark:glowshroom_stem",
-        "count": 1.0
+        "count": 1.0,
+        "item": "quark:glowshroom_stem"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"quark:glowshroom_stem\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"quark:glowshroom_stem\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }
@@ -20,6 +20,10 @@
     {
       "amount": 5.0,
       "type": "goo:fungal"
+    },
+    {
+      "amount": 1.0,
+      "type": "goo:radiant"
     }
   ]
 }

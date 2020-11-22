@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "biomesoplenty:mud_ball",
-        "count": 1.0
+        "count": 1.0,
+        "item": "biomesoplenty:mud_ball"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"biomesoplenty:mud_ball\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"biomesoplenty:mud_ball\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }

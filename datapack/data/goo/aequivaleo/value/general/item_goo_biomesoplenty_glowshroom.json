@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "biomesoplenty:glowshroom",
-        "count": 1.0
+        "count": 1.0,
+        "item": "biomesoplenty:glowshroom"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"biomesoplenty:glowshroom\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"biomesoplenty:glowshroom\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }
@@ -24,6 +24,10 @@
     {
       "amount": 1.0,
       "type": "goo:weird"
+    },
+    {
+      "amount": 3.0,
+      "type": "goo:radiant"
     }
   ]
 }

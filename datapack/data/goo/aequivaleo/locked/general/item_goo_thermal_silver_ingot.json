@@ -3,15 +3,15 @@
   "targets": [
     {
       "data": {
-        "item": "thermal:silver_ingot",
-        "count": 1.0
+        "count": 1.0,
+        "item": "thermal:silver_ingot"
       },
       "type": "aequivaleo:item"
     },
     {
       "data": {
-        "stack": "{id:\"thermal:silver_ingot\",Count:1b}",
-        "count": 1.0
+        "count": 1.0,
+        "stack": "{id:\"thermal:silver_ingot\",Count:1b}"
       },
       "type": "aequivaleo:itemstack"
     }
