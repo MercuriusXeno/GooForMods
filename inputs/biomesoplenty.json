@@ -91,11 +91,18 @@
 		
 		"glowshroom":{
 			"fungal":15,
-			"weird":1
+			"weird":1,
+			"radiant":3,
 		},
 		"glowshroom_block":{
 			"fungal":5,
+			"radiant":1,
 		},
+		
+		"nether_crystal":{
+			"crystal":1,
+			"radiant":5,
+		}
 		
 		// From prototypes
 		"white_sand":"sand",

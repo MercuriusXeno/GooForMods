@@ -8,6 +8,7 @@
 			"crystal":1,
 			"earthen":60,
 			"chromatic":150,
+			"radiant":15,
 		},
 		"quark:shard":{
 			"earthen":45,
@@ -40,16 +41,20 @@
 			"earthen":180,
 			"fungal":30,
 			"weird":1,
+			"radiant":2,
 		},
 		"glowshroom":{
 			"fungal":15,
 			"weird":1,
+			"radiant":3,
 		},
 		"glowshroom_block":{
 			"fungal":5,
+			"radiant":1,
 		},
 		"glowshroom_stem":{
 			"fungal":5,
+			"radiant":1,
 		},
 		"ravager_hide":{
 			"faunal":600,

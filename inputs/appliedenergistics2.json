@@ -1,6 +1,151 @@
 {
 	"prefix":"appliedenergistics2",
+	"recipes":[
+		{
+			"inputs":{
+				"minecraft:quartz":1,
+				"minecraft:redstone":1,
+				"charged_certus_quartz_crystal":1,
+			},
+			"outputs":{
+				"fluix_crystal":2,
+			}
+		},
+		{
+			"inputs":{
+				"certus_crystal_seed":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"purified_certus_quartz_crystal":10,
+			}
+		},
+		{
+			"inputs":{
+				"fluix_crystal_seed":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"purified_fluix_quartz_crystal":10,
+			}
+		},
+		{
+			"inputs":{
+				"nether_quartz_seed":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"purified_nether_quartz_crystal":10,
+			}
+		},
+		{
+			"inputs":{
+				"minecraft:iron_block":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"calculation_processor_press":10,
+			}
+		},
+		{
+			"inputs":{
+				"minecraft:iron_block":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"engineering_processor_press":10,
+			}
+		},
+		{
+			"inputs":{
+				"minecraft:iron_block":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"logic_processor_press":10,
+			}
+		},
+		{
+			"inputs":{
+				"minecraft:iron_block":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"silicon_press":10,
+			}
+		},
+		{
+			"inputs":{
+				"purified_certus_quartz_crystal":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"printed_calculation_processor":10,
+			}
+		},
+		{
+			"inputs":{
+				"minecraft:diamond":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"printed_engineering_processor":10,
+			}
+		},
+		{
+			"inputs":{
+				"minecraft:gold_ingot":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"printed_logic_processor":10,
+			}
+		},
+		{
+			"inputs":{
+				"silicon":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"printed_silicon":10,
+			}
+		},
+		{
+			"inputs":{
+				"minecraft:redstone":10,
+				"printed_silicon":10,
+				"printed_calculation_processor":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"calculation_processor":10,
+			}
+		},
+		{
+			"inputs":{
+				"minecraft:redstone":10,
+				"printed_silicon":10,
+				"printed_engineering_processor":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"engineering_processor":10,
+			}
+		},
+		{
+			"inputs":{
+				"minecraft:redstone":10,
+				"printed_silicon":10,
+				"printed_logic_processor":10,
+				"goo:energetic_goo_sliver":1,
+			},
+			"outputs":{
+				"logic_processor":10,
+			}
+		},
+	],
 	"prototypes":{
+	
 	},
 	"implementations":{
 		// Explicitly defined
@@ -31,12 +176,6 @@
 		"sky_stone_block":{
 			"earthen":180,
 			"obsidian":10
-		},
-		"fluix_crystal":{ // Crafted using special AE2 in-world mechanic
-			"crystal":2,
-			"earthen":45,
-			"logic":22,
-			"energetic":3
 		},
 		// From prototypes
 	}

@@ -1,5 +1,25 @@
 {
 	"prefix":"botania",
+	"recipes":[
+		{
+			"inputs":{
+				"#minecraft:logs":10,
+				"goo:vital_goo_sliver":1,
+			},
+			"outputs":{
+				"livingwood":10,
+			},
+		},
+		{
+			"inputs":{
+				"#forge:stone":10,
+				"goo:vital_goo_sliver":1,
+			},
+			"outputs":{
+				"livingrock":10,
+			},
+		},
+	],
 	"prototypes":{
 		"botania:flower":{
 			"chromatic":288,
@@ -12,7 +32,24 @@
 			"vital":72,
 		},
 	},
+	"special":{
+		"mana":{
+			"targets":[
+				{
+					"type":"botania:mana",
+				},
+			],
+			"values":
+			{
+				"logic_forbidden":1,
+				"weird":0.001,
+				"floral":0.01,
+			},
+		},
+	},
 	"implementations":{
+		// Explicitly defined
+		// From prototypes
 		"white_mystical_flower":"botania:flower",
 		"orange_mystical_flower":"botania:flower",
 		"magenta_mystical_flower":"botania:flower",

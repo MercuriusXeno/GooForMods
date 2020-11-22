@@ -1,4 +1,6 @@
 {
+	"tags":{
+	},
 	"prototypes":{
 		// From Vanilla
 		"grass_block":{
